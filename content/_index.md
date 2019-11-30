@@ -1,7 +1,7 @@
 ---
 title: ""
 date: 2019-11-29T19:19:44-05:00
-draft: true
+draft: false
 ---
 
 ## Technical reports
