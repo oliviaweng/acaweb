@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Olivia Weng"
+theme = "mfwebsite"
+
+[params]
+author = "Olivia Weng"
+description = "computer architect."
+dateform = "Jan 2, 2006"
+
