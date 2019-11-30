@@ -18,6 +18,7 @@ My interests include but are not limited to:
 * Theatre
 * Movies
 * Film adaptations of books
+* Reading novels
 * Classical music
 * Operas
 * Taking walks

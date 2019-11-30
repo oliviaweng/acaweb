@@ -3,7 +3,7 @@ title: "Projects"
 draft: false
 ---
 
-## Current
+## Ongoing
 
 ### Verifying in hardware implementations of cache side-channel mitigation techniques
 A great deal of cache side-channel mitigation techniques and designs have been implemented, but little work has gone into verifying that the implementations of these techniques would actually be secure. My research thus focuses on creating a set of experiments that will verify if the given security properties of a protected cache design are actually met in its real-world implementation. We will also develop experiments that will simulate hardware failures to see how these secure cache designs hold up when hardware inevitably fails. 
