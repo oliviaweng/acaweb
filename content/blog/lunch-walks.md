@@ -24,3 +24,11 @@ Two hours after my walk---I live in Chicago, and he lives in Seattle---, I would
 For a brief moment around lunchtime, we would experience each other's day together. 
 
 all my best, O
+
+P.S. UChicago's nearby urban greenery 
+
+{{< image src="/img/lunch_walk.jpg" alt="profile" >}}
+
+paired with a far-off view of Mount Rainier from UW's campus. 
+
+{{< image src="/img/rainier_walk.jpg" alt="profile" >}}
