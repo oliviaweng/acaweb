@@ -2,7 +2,7 @@
 title: "On taking walks after lunch"
 description: In which I reflect on the joys of taking walks
 date: 2019-11-29T16:57:20-05:00
-draft: true
+draft: false
 ---
 
 ### Dear reader,

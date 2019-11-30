@@ -1,6 +1,6 @@
 ---
 title: "About"
-draft: true
+draft: false
 ---
 
 Hello, I'm Olivia. I'm a fourth-year undergraduate studying computer science, specializing in computer systems, at the University of Chicago. 
