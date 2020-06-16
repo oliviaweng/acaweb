@@ -6,6 +6,6 @@ draft: false
 
 ## Publications
 
-* **Olivia Weng** and Andrew A. Chien. Evaluating Achievable Latency and Cost: SSD Latency Predictors (MittOS Model Inference). In *Proceedings of the Workshop on Accelerated Machine Learning, AccML@HiPEAC: High Performance Embedded Architectures and Compilers, 15th International Conference.* January, 2020. (to appear) [PDF][1]
+1. **Olivia Weng** and Andrew A. Chien. Evaluating Achievable Latency and Cost: SSD Latency Predictors. In *Proceedings of the Workshop on Accelerated Machine Learning, AccML@HiPEAC: High Performance Embedded Architectures and Compilers, 15th International Conference.* January, 2020. [PDF][1]
 
-[1]: https://newtraell.cs.uchicago.edu/files/tr_additional/TR-2019-17.pdf
+[1]: /accml_2020.pdf
