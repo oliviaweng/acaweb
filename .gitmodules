@@ -5,3 +5,6 @@
 	path = public
 	url = git@github.com:oliviaweng/oliviaweng.github.io.git
 	branch = master
+[submodule "hugo-theme-motherfuckingwebsite"]
+	path = hugo-theme-motherfuckingwebsite
+	url = https://github.com/mpcsh/hugo-theme-motherfuckingwebsite
