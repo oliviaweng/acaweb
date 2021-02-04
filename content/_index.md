@@ -11,8 +11,8 @@ draft: false
 
 ## Workshop Extended Abstracts
 
-1. **Olivia Weng**, Alireza Khodamoradi, and Ryan Kastner. [Hardware-efficient Residual Networks for FPGAs][2]. In *Workshop on System-level Design Methods for Deep Learning on Heterogeneous Architectures (SLOHA) at Design, Automation and Test in Europe (DATE)*. Grenoble, France, February 2021 (*to appear*).
+1. **Olivia Weng**, Alireza Khodamoradi, and Ryan Kastner. [Hardware-efficient Residual Networks for FPGAs][2]. In *Proceedings of Workshop on System-level Design Methods for Deep Learning on Heterogeneous Architectures (SLOHA) at Design, Automation and Test in Europe (DATE)*. ~~Grenoble, France~~ (Virtual), February 2021.
 
 
 [1]: /accml_2020.pdf
-[2]: /sloha2021.pdf
+[2]: https://arxiv.org/pdf/2102.01351.pdf
