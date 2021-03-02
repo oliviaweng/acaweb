@@ -6,7 +6,9 @@ draft: false
 
 ## Workshop Publications
 
-1. **Olivia Weng** and Andrew A. Chien. [Evaluating Achievable Latency and Cost: SSD Latency Predictors][1]. In *Workshop on Accelerated Machine Learning (AccML) at High Performance Embedded Architectures and Compilers (HiPEAC)*. Bologna, Italy, January 2020.
+1. Michael Barrow, **Olivia Weng**, and Ryan Kastner. [Design Space Exploration for Machine Learning Architectures][3]. In *Workshop on Reimagining Codesign hosted by US DOE, Office of Advanced Scientific Computing Research*. Virtual, March 2021.
+
+2. **Olivia Weng** and Andrew A. Chien. [Evaluating Achievable Latency and Cost: SSD Latency Predictors][1]. In *Workshop on Accelerated Machine Learning (AccML) at High Performance Embedded Architectures and Compilers (HiPEAC)*. Bologna, Italy, January 2020.
 
 
 ## Workshop Extended Abstracts
@@ -16,3 +18,4 @@ draft: false
 
 [1]: /accml_2020.pdf
 [2]: https://arxiv.org/pdf/2102.01351.pdf
+[3]: /recode2021.pdf
