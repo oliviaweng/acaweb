@@ -6,6 +6,8 @@ draft: false
 
 ## Publications
 
+1. **Olivia Weng**. [Neural Network Quantization for Efficient Inference: A Survey][5]. *arXiv:2112.06126.* December 2021.
+
 1. **Olivia Weng**, Alireza Khodamoradi, Gabriel Marcano, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Ryan Kastner. 
 [ResNet Reshaper: Reshaping Residual Networks for Resource-Efficient Inference on FPGAs][0]. In submission.
 
@@ -24,4 +26,4 @@ draft: false
 [2]: https://arxiv.org/pdf/2102.01351.pdf
 [3]: /recode2021.pdf
 [4]: https://ieeexplore.ieee.org/abstract/document/9444070 
-
+[5]: https://arxiv.org/abs/2112.06126 
