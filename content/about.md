@@ -27,6 +27,7 @@ My interests include but are not limited to:
 * Classical music
 * Operas
 * Tennis
+* Tetris
 * Taking walks
 
 Talk to me about any of the above, and we will make good conversation! 

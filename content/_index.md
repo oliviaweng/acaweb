@@ -6,20 +6,22 @@ draft: false
 
 ## Publications
 
+1. **Olivia Weng**, Gabriel Marcano, Alireza Khodamoradi, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Ryan Kastner. 
+[Ditch the Training Wheels: Exploring Skip Connection Removal for Resource-Efficient Inference][0]. In submission.
+
+1. Colin Drewes, **Olivia Weng**, Steven Harris, Winnie Wang, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In submission.
+
+1.  Michaela Blott, Hendrik Borras, Giuseppe Di Guglielmo, Javier Duarte, Nicolò Ghielmetti, Ben Hawks, Scott Hauck, Shih-Chieh Hsu, Ryan Kastner, Jason Liang, Andres Meza, Jules Muhizi, Tai Nguyen, Rushil Roy, Nhan Tran, Yaman Umuroglu, **Olivia Weng** and Aidan Yokuda. [Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark][0]. In *Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at Conference on Machine Learning and Systems (MLSys)*. To appear. 
+
 1. **Olivia Weng**. [Neural Network Quantization for Efficient Inference: A Survey][5]. *arXiv:2112.06126.* December 2021.
 
-1. **Olivia Weng**, Alireza Khodamoradi, Gabriel Marcano, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Ryan Kastner. 
-[ResNet Reshaper: Reshaping Residual Networks for Resource-Efficient Inference on FPGAs][0]. In submission.
+1. Colin Drewes, Steven Harris, Winnie Wang, Richard Appen, **Olivia Weng**, Ryan Kastner, William Hunter, Christopher McCarty, Dustin Richmond. [A Tunable Dual-Edge Time-to-Digital Converter][4]. In *IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. Virtual, May 2021. 
 
-2. Colin Drewes, **Olivia Weng**, Steven Harris, Winnie Wang, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In submission.
+1. Michael Barrow, **Olivia Weng**, and Ryan Kastner. [Design Space Exploration for Machine Learning Architectures][3]. In *Workshop on Reimagining Codesign hosted by US DOE, Office of Advanced Scientific Computing Research*. Virtual, March 2021.
 
-3. Colin Drewes, Steven Harris, Winnie Wang, Richard Appen, **Olivia Weng**, Ryan Kastner, William Hunter, Christopher McCarty, Dustin Richmond. [A Tunable Dual-Edge Time-to-Digital Converter][4]. In *IEEE 29th Annual International Symposium on Field-Programmable Custom Computing Machines (FCCM)*. Virtual, May 2021. 
+1. **Olivia Weng**, Alireza Khodamoradi, and Ryan Kastner. [Hardware-efficient Residual Networks for FPGAs][2]. In *Proceedings of Workshop on System-level Design Methods for Deep Learning on Heterogeneous Architectures (SLOHA) at Design, Automation and Test in Europe (DATE)*. ~~Grenoble, France~~ (Virtual), February 2021.
 
-4. Michael Barrow, **Olivia Weng**, and Ryan Kastner. [Design Space Exploration for Machine Learning Architectures][3]. In *Workshop on Reimagining Codesign hosted by US DOE, Office of Advanced Scientific Computing Research*. Virtual, March 2021.
-
-5. **Olivia Weng**, Alireza Khodamoradi, and Ryan Kastner. [Hardware-efficient Residual Networks for FPGAs][2]. In *Proceedings of Workshop on System-level Design Methods for Deep Learning on Heterogeneous Architectures (SLOHA) at Design, Automation and Test in Europe (DATE)*. ~~Grenoble, France~~ (Virtual), February 2021.
-
-6. **Olivia Weng** and Andrew A. Chien. [Evaluating Achievable Latency and Cost: SSD Latency Predictors][1]. In *Workshop on Accelerated Machine Learning (AccML) at High Performance Embedded Architectures and Compilers (HiPEAC)*. Bologna, Italy, January 2020.
+1. **Olivia Weng** and Andrew A. Chien. [Evaluating Achievable Latency and Cost: SSD Latency Predictors][1]. In *Workshop on Accelerated Machine Learning (AccML) at High Performance Embedded Architectures and Compilers (HiPEAC)*. Bologna, Italy, January 2020.
 
 [0]: /
 [1]: /accml_2020.pdf
