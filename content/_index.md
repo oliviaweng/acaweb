@@ -6,10 +6,10 @@ draft: false
 
 ## Publications
 
-1. **Olivia Weng**, Gabriel Marcano, Alireza Khodamoradi, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Ryan Kastner. 
-[Ditch the Training Wheels: Exploring Skip Connection Removal for Resource-Efficient Inference][0]. In submission.
+1. **Olivia Weng**, Gabriel Marcano, Alireza Khodamoradi, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Javier Duarte, Ryan Kastner. 
+[Tailor: Altering Skip Connections for Resource-Efficient Inference][0]. In submission.
 
-1. Colin Drewes, **Olivia Weng**, Steven Harris, Winnie Wang, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In submission.
+1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In submission.
 
 1.  Michaela Blott, Hendrik Borras, Giuseppe Di Guglielmo, Javier Duarte, Nicolò Ghielmetti, Ben Hawks, Scott Hauck, Shih-Chieh Hsu, Ryan Kastner, Jason Liang, Andres Meza, Jules Muhizi, Tai Nguyen, Rushil Roy, Nhan Tran, Yaman Umuroglu, **Olivia Weng** and Aidan Yokuda. [Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark][0]. In *Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at Conference on Machine Learning and Systems (MLSys)*. To appear. 
 
