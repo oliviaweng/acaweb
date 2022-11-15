@@ -1,7 +1,7 @@
 baseURL = "http://oliviaweng.github.io/"
 languageCode = "en-us"
 title = "Olivia Weng"
-theme = "mfwebsite"
+theme = "academicmfwebsite"
 
 [params]
 author = "Olivia Weng"
