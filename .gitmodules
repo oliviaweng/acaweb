@@ -1,10 +1,7 @@
-[submodule "themes/mfwebsite"]
-	path = themes/mfwebsite
-	url = git@github.com:mpcsh/hugo-theme-motherfuckingwebsite.git
 [submodule "public"]
 	path = public
 	url = git@github.com:oliviaweng/oliviaweng.github.io.git
 	branch = master
-[submodule "hugo-theme-motherfuckingwebsite"]
-	path = hugo-theme-motherfuckingwebsite
-	url = https://github.com/mpcsh/hugo-theme-motherfuckingwebsite
+[submodule "themes/academicmfwebsite"]
+	path = themes/academicmfwebsite
+	url = git@github.com:oliviaweng/hugo-theme-motherfuckingwebsite.git
