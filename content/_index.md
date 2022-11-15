@@ -6,12 +6,14 @@ draft: false
 
 ## Publications
 
-1. **Olivia Weng**, Gabriel Marcano, Alireza Khodamoradi, Nojan Sheybani, Farinaz Koushanfar, Kristof Denolf, Javier Duarte, Ryan Kastner. 
+1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: DataResidue in Cloud FPGAs][0]. In submission.
+
+1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
 [Tailor: Altering Skip Connections for Resource-Efficient Inference][0]. In submission.
 
-1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In submission.
+1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In *ACM 31st International Symposium on Field-Programmable Gate Arrays (FPGA)*. Monterey, CA. To appear.
 
-1.  Michaela Blott, Hendrik Borras, Giuseppe Di Guglielmo, Javier Duarte, Nicolò Ghielmetti, Ben Hawks, Scott Hauck, Shih-Chieh Hsu, Ryan Kastner, Jason Liang, Andres Meza, Jules Muhizi, Tai Nguyen, Rushil Roy, Nhan Tran, Yaman Umuroglu, **Olivia Weng** and Aidan Yokuda. [Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark][6]. In *Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at Conference on Machine Learning and Systems (MLSys)*. To appear. 
+1.  Michaela Blott, Hendrik Borras, Giuseppe Di Guglielmo, Javier Duarte, Nicolò Ghielmetti, Ben Hawks, Scott Hauck, Shih-Chieh Hsu, Ryan Kastner, Jason Liang, Andres Meza, Jules Muhizi, Tai Nguyen, Rushil Roy, Nhan Tran, Yaman Umuroglu, **Olivia Weng** and Aidan Yokuda. [Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark][6]. In *Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at Conference on Machine Learning and Systems (MLSys)*. August 2022. 
 
 1. **Olivia Weng**. [Neural Network Quantization for Efficient Inference: A Survey][5]. *arXiv:2112.06126.* December 2021.
 
