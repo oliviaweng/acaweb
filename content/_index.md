@@ -26,9 +26,9 @@ draft: false
 1. **Olivia Weng** and Andrew A. Chien. [Evaluating Achievable Latency and Cost: SSD Latency Predictors][1]. In *Workshop on Accelerated Machine Learning (AccML) at High Performance Embedded Architectures and Compilers (HiPEAC)*. Bologna, Italy, January 2020.
 
 [0]: /
-[1]: /accml_2020.pdf
+[1]: /papers/accml_2020.pdf
 [2]: https://arxiv.org/abs/2102.01351
-[3]: /recode2021.pdf
+[3]: /papers/recode2021.pdf
 [4]: https://ieeexplore.ieee.org/abstract/document/9444070 
 [5]: https://arxiv.org/abs/2112.06126 
 [6]: https://arxiv.org/abs/2206.11791

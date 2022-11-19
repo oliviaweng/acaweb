@@ -3,6 +3,15 @@ title: "Projects"
 draft: false
 ---
 
+## FKeras: A Fault Tolerant Library for Keras
+Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
+For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. The autoencoder hardware must be both efficient and robust.
+
+However, efficiency and robustness are often in conflict with each other.
+To address these opposing demands, we must understand the fault tolerance inherent in NNs.
+To identify where this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level. 
+Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
+
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
 Deep neural networks employ skip connections---identity functions that combine the outputs of different layers---to improve training convergence; however, these skip connections are costly to implement in hardware because they consume valuable resources. 
 We argue that, for certain classification tasks, a network's skip connections are needed for the network to learn but not necessary for inference after convergence. We thus introduce *Tailor*, a retraining method that alters skip connections in a fully-trained network to mitigate their hardware cost.

@@ -11,7 +11,7 @@ My work is supported by an NSF Graduate Research Fellowship.
 
 Before coming to UCSD, I received my BS in Computer Science at the University of Chicago, where I worked with Professor [Yanjing Li][2] on mitigating cache side-channel attacks while maintaining cache performance and Professor [Andrew A. Chien][3] on integrating SSD latency predictors into cloud systems via hardware accelerators. 
 
-{{< image src="/img/profile1.jpg" alt="profile" >}}
+{{< image src="/img/headshot.jpg" alt="profile" >}}
 
 My interests include but are not limited to:
 
