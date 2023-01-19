@@ -9,7 +9,7 @@ draft: false
 1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][0]. In submission.
 
 1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
-[Tailor: Altering Skip Connections for Resource-Efficient Inference][0]. In submission.
+[Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In submission.
 
 1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
 [Adapting Skip Connections for Resource-Efficient FPGA Inference][0]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. To appear.
@@ -35,3 +35,4 @@ draft: false
 [4]: https://ieeexplore.ieee.org/abstract/document/9444070 
 [5]: https://arxiv.org/abs/2112.06126 
 [6]: https://arxiv.org/abs/2206.11791
+[7]: https://arxiv.org/abs/2301.07247
