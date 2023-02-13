@@ -12,9 +12,9 @@ draft: false
 [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In submission.
 
 1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
-[Adapting Skip Connections for Resource-Efficient FPGA Inference][0]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. To appear.
+[Adapting Skip Connections for Resource-Efficient FPGA Inference][9]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023.
 
-1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][0]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. To appear. **Nominated for Best Paper.**
+1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][8]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023. **Nominated for Best Paper.**
 
 1. Hendrik Borras, Giuseppe Di Guglielmo, Javier Duarte, Nicolò Ghielmetti, Ben Hawks, Scott Hauck, Shih-Chieh Hsu, Ryan Kastner, Jason Liang, Andres Meza, Jules Muhizi, Tai Nguyen, Rushil Roy, Nhan Tran, Yaman Umuroglu, **Olivia Weng**, Aidan Yokuda, Michaela Blott. [Open-source FPGA-ML codesign for the MLPerf Tiny Benchmark][6]. In *Workshop on Benchmarking Machine Learning Workloads on Emerging Hardware (MLBench) at Conference on Machine Learning and Systems (MLSys)*. August 2022. 
 
@@ -36,3 +36,5 @@ draft: false
 [5]: https://arxiv.org/abs/2112.06126 
 [6]: https://arxiv.org/abs/2206.11791
 [7]: https://arxiv.org/abs/2301.07247
+[8]: https://dl.acm.org/doi/10.1145/3543622.3573193
+[9]: https://dl.acm.org/doi/10.1145/3543622.3573172 
