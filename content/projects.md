@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## FKeras: A Fault Tolerant Library for Understanding NN Resilience
-[Workshop preprint][4]
+[Workshop preprint][6]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -16,14 +16,14 @@ To identify where and why this inherent redundancy exists in a NN, we present [F
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
 
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
-[SLOHA'21][3], [FPGA'23][0]
+[SLOHA'21][3], [FPGA'23][5]
 
 Deep neural networks employ skip connections---identity functions that combine the outputs of different layers---to improve training convergence; however, these skip connections are costly to implement in hardware because they consume valuable resources. 
 For certain classification tasks though, a network's skip connections are needed for the network to learn but not necessary for inference after convergence. 
 We introduce *Tailor*, a fine-tuning/retraining method that alters skip connections in a fully-trained network to reduce their hardware cost.
 
 ## Maximizing Channel Capacity in Time-to-Digital Converters
-[FCCM'21][2], [FPGA'23][0]
+[FCCM'21][2], [FPGA'23][4]
 
 Side-channel leakage poses a major security threat in multi-tenant environments. 
 In FPGA systems, one tenant can instantiate a voltage fluctuation sensor that measures minute changes in the power distribution network and infer information about co-tenant computation and data. 
@@ -45,4 +45,6 @@ We show that integrating machine learning into the critical path of operating sy
 [1]: /papers/accml_2020.pdf
 [2]: https://ieeexplore.ieee.org/abstract/document/9444070 
 [3]: https://arxiv.org/abs/2102.01351
-[4]: /papers/radit2023.pdf
+[4]: https://dl.acm.org/doi/10.1145/3543622.3573193
+[5]: https://dl.acm.org/doi/10.1145/3543622.3573172 
+[6]: /papers/radit2023.pdf
