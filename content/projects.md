@@ -4,13 +4,15 @@ draft: false
 ---
 
 ## FKeras: A Fault Tolerant Library for Understanding NN Resilience
+[Workshop preprint][4]
+
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
 Thus, the autoencoder hardware must be both efficient and robust.
 
 However, efficiency and robustness are often in conflict with each other.
 To address these opposing demands, we must understand the fault tolerance inherent in NNs.
-To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using a variety of metrics (e.g., loss landscapes). 
+To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the Hessian. 
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
 
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
@@ -43,3 +45,4 @@ We show that integrating machine learning into the critical path of operating sy
 [1]: /papers/accml_2020.pdf
 [2]: https://ieeexplore.ieee.org/abstract/document/9444070 
 [3]: https://arxiv.org/abs/2102.01351
+[4]: /papers/radit2023.pdf
