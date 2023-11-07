@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## FKeras: A Fault Tolerant Library for Understanding NN Resilience
-[Workshop preprint][6]
+[Workshop][6]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -12,11 +12,11 @@ Thus, the autoencoder hardware must be both efficient and robust.
 
 However, efficiency and robustness are often in conflict with each other.
 To address these opposing demands, we must understand the fault tolerance inherent in NNs.
-To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the Hessian. 
+To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the gradient and the Hessian. 
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
 
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
-[SLOHA'21][3], [FPGA'23][5]
+[SLOHA'21][3], [FPGA'23][5], [TRETS][7]
 
 Deep neural networks employ skip connections---identity functions that combine the outputs of different layers---to improve training convergence; however, these skip connections are costly to implement in hardware because they consume valuable resources. 
 For certain classification tasks though, a network's skip connections are needed for the network to learn but not necessary for inference after convergence. 
@@ -48,3 +48,4 @@ We show that integrating machine learning into the critical path of operating sy
 [4]: https://dl.acm.org/doi/10.1145/3543622.3573193
 [5]: https://dl.acm.org/doi/10.1145/3543622.3573172 
 [6]: /papers/radit2023.pdf
+[7]: https://dl.acm.org/doi/pdf/10.1145/3624990 
