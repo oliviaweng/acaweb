@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## FKeras: A Fault Tolerant Library for Understanding NN Resilience
-[Workshop][6]
+[Workshop paper][6]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 

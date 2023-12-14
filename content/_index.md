@@ -8,7 +8,7 @@ draft: false
 
 1. **Olivia Weng**, Andres Meza, Quinlan Bock, Benjamin Hawks, Javier Campos, Nhan Tran, Javier Duarte, Ryan Kastner. [FKeras: A Sensitivity Analysis Tool for Edge Neural Networks][0]. In submission. 
 
-1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In submission.
+1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. To appear.
 
 1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, and Ryan Kastner. 
 [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*. To appear.
