@@ -15,8 +15,14 @@ To address these opposing demands, we must understand the fault tolerance inhere
 To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the Hessian. 
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
 
+## EnsembleLUT: Evaluating Ensembles of LogicNets
+Applications including high-energy physics and cybersecurity require extremely high throughput and low latency neural network inference on FPGAs. 
+[LogicNets](https://github.com/Xilinx/logicnets) addresses these constraints by mapping neurons directly to LUTs, achieving inference latency on the order of nanoseconds.
+However, it is difficult to implement larger, more performant neural networks as LogicNets because LUT usage increases exponentially with respect to neuron fan-in (i.e., synapse bitwidth X number of synapses).
+Our work *EnsembleLUT* creates ensembles of smaller LogicNets such that we scale up LogicNets linearly with respect to the number of models to achieve higher accuracy within the resource constraints of an FPGA.
+
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
-[SLOHA'21][3], [FPGA'23][5]
+[SLOHA'21][3], [FPGA'23][5], [TRETS'24][7]
 
 Deep neural networks employ skip connections---identity functions that combine the outputs of different layers---to improve training convergence; however, these skip connections are costly to implement in hardware because they consume valuable resources. 
 For certain classification tasks though, a network's skip connections are needed for the network to learn but not necessary for inference after convergence. 
@@ -48,3 +54,4 @@ We show that integrating machine learning into the critical path of operating sy
 [4]: https://dl.acm.org/doi/10.1145/3543622.3573193
 [5]: https://dl.acm.org/doi/10.1145/3543622.3573172 
 [6]: /papers/radit2023.pdf
+[7]: https://dl.acm.org/doi/pdf/10.1145/3624990
