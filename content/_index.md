@@ -10,10 +10,9 @@ draft: false
 
 1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. To appear.
 
-1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
-[Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
+1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
 
-1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
+2. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
 [Adapting Skip Connections for Resource-Efficient FPGA Inference][9]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023.
 
 1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][8]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023. **Nominated for Best Paper.**
