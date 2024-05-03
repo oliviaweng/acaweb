@@ -6,15 +6,15 @@ draft: false
 
 ## Publications
 
-1. **Olivia Weng**, Andres Meza, Quinlan Bock, Benjamin Hawks, Javier Campos, Nhan Tran, Javier Duarte, Ryan Kastner. [FKeras: A Sensitivity Analysis Tool for Edge Neural Networks][0]. In submission. 
+1. **Olivia Weng**, Andres Meza, Quinlan Bock, Benjamin Hawks, Javier Campos, Nhan Tran, Javier Duarte, Ryan Kastner. [FKeras: A Sensitivity Analysis Tool for Edge Neural Networks][0]. In *ACM Journal on Autonomous Transportation Systems*. To appear. 
 
-1. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][0]. In *IEEE 42nd VLSI Test Symposium (VTS)*. To appear.
+1. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][0]. In *IEEE 42nd VLSI Test Symposium (VTS)*. Tempe, AZ. April 2024.
 
-1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. To appear.
+1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. San Diego, CA. April 2024.
 
-2. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
+1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
 
-3. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
+1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
 [Adapting Skip Connections for Resource-Efficient FPGA Inference][9]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023.
 
 1. Colin Drewes, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Channel Capacity in Time-to-Digital Converters][8]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023. **Nominated for Best Paper.**
@@ -39,6 +39,6 @@ draft: false
 [5]: https://arxiv.org/abs/2112.06126 
 [6]: https://arxiv.org/abs/2206.11791
 [7]: https://dl.acm.org/doi/pdf/10.1145/3624990 
-[8]: https://dl.acm.org/doi/10.1145/3543622.3573193
+[8]: https://dl.acm.org/doi/pdf/10.1145/3543622.3573193 
 [9]: https://dl.acm.org/doi/10.1145/3543622.3573172 
-[10]: https://arxiv.org/abs/2303.17881 
+[10]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 

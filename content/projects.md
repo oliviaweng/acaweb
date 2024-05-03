@@ -28,6 +28,14 @@ Deep neural networks employ skip connections---identity functions that combine t
 For certain classification tasks though, a network's skip connections are needed for the network to learn but not necessary for inference after convergence. 
 We introduce *Tailor*, a fine-tuning/retraining method that alters skip connections in a fully-trained network to reduce their hardware cost.
 
+## Pentimento: Data Remanence in Cloud FPGAs
+[ASPLOS'24][8]
+
+Remote attackers can recover "FPGA pentimento"---long-removed data belonging to a prior user or proprietary design image on a cloud FPGA. 
+Just as a pentimento of a painting can be exposed by infrared imaging, FPGA pentimentos can be exposed by signal timing sensors. 
+The data constituting an FPGA pentimento is imprinted on the device through bias temperature instability effects on the underlying transistors. 
+Measuring this degradation using a time-to-digital converter allows an attacker to (1) extract proprietary details or keys from an encrypted FPGA design image available on the AWS marketplace and (2) recover information from a previous user of a cloud-FPGA.
+
 ## Maximizing Channel Capacity in Time-to-Digital Converters
 [FCCM'21][2], [FPGA'23][4]
 
@@ -51,7 +59,8 @@ We show that integrating machine learning into the critical path of operating sy
 [1]: /papers/accml_2020.pdf
 [2]: https://ieeexplore.ieee.org/abstract/document/9444070 
 [3]: https://arxiv.org/abs/2102.01351
-[4]: https://dl.acm.org/doi/10.1145/3543622.3573193
+[4]: https://dl.acm.org/doi/pdf/10.1145/3543622.3573193
 [5]: https://dl.acm.org/doi/10.1145/3543622.3573172 
 [6]: /papers/radit2023.pdf
 [7]: https://dl.acm.org/doi/pdf/10.1145/3624990
+[8]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 
