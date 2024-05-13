@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## FKeras: A Fault Tolerant Library for Understanding NN Resilience
-[Workshop paper][6]
+[JATS (To appear)][0]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -37,7 +37,7 @@ The data constituting an FPGA pentimento is imprinted on the device through bias
 Measuring this degradation using a time-to-digital converter allows an attacker to (1) extract proprietary details or keys from an encrypted FPGA design image available on the AWS marketplace and (2) recover information from a previous user of a cloud-FPGA.
 
 ## Maximizing Channel Capacity in Time-to-Digital Converters
-[FCCM'21][2], [FPGA'23][4]
+[FCCM'21][2], [FPGA'23][4], [TRETS (To appear)][0]
 
 Side-channel leakage poses a major security threat in multi-tenant environments. 
 In FPGA systems, one tenant can instantiate a voltage fluctuation sensor that measures minute changes in the power distribution network and infer information about co-tenant computation and data. 

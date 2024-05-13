@@ -8,6 +8,8 @@ draft: false
 
 1. **Olivia Weng**, Andres Meza, Quinlan Bock, Benjamin Hawks, Javier Campos, Nhan Tran, Javier Duarte, Ryan Kastner. [FKeras: A Sensitivity Analysis Tool for Edge Neural Networks][0]. In *ACM Journal on Autonomous Transportation Systems*. To appear. 
 
+1. Colin Drewes, Tyler Sheaves, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters][0]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*. To appear.
+
 1. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][0]. In *IEEE 42nd VLSI Test Symposium (VTS)*. Tempe, AZ. April 2024.
 
 1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. San Diego, CA. April 2024.
