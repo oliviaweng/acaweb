@@ -3,8 +3,8 @@ title: "Projects"
 draft: false
 ---
 
-## FKeras: A Fault Tolerant Library for Understanding NN Resilience
-[JATS (To appear)][0]
+## FKeras: A Sensitivity Analysis Tool for Edge Neural Networks
+[JATS (To appear)][9]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -12,7 +12,7 @@ Thus, the autoencoder hardware must be both efficient and robust.
 
 However, efficiency and robustness are often in conflict with each other.
 To address these opposing demands, we must understand the fault tolerance inherent in NNs.
-To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the gradient and the Hessian. 
+To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), a fault tolerance library for Keras, which is an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the gradient and the Hessian. 
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
 
 ## EnsembleLUT: Evaluating Ensembles of LogicNets
@@ -64,3 +64,4 @@ We show that integrating machine learning into the critical path of operating sy
 [6]: /papers/radit2023.pdf
 [7]: https://dl.acm.org/doi/pdf/10.1145/3624990
 [8]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 
+[9]: https://dl.acm.org/doi/pdf/10.1145/3665334 
