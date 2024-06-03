@@ -10,9 +10,9 @@ draft: false
 
 1. Colin Drewes, Tyler Sheaves, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters][0]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*. To appear.
 
-1. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][0]. In *IEEE 42nd VLSI Test Symposium (VTS)*. Tempe, AZ. April 2024.
-
 1. Colin Drewes, **Olivia Weng**, Andres Meza, Alric Althoff, Bill Hunter, David Kohlbrenner, Ryan Kastner, Dustin Richmond. [Pentimento: Data Residue in Cloud FPGAs][10]. In *Proceedings of the 29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. San Diego, CA. April 2024.
+
+1. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][12]. In *IEEE 42nd VLSI Test Symposium (VTS)*. Tempe, AZ. April 2024.
 
 1. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
 
@@ -45,3 +45,4 @@ draft: false
 [9]: https://dl.acm.org/doi/10.1145/3543622.3573172 
 [10]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 
 [11]: https://dl.acm.org/doi/pdf/10.1145/3665334 
+[12]: https://ieeexplore.ieee.org/abstract/document/10538639
