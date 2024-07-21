@@ -5,7 +5,7 @@ draft: false
 
 Hello! 
 I'm Olivia. 
-I'm a fourth-year PhD candidate in Computer Science working with Professor [Ryan Kastner][1] at UC San Diego. 
+I'm a fifth-year PhD candidate in Computer Science working with Professor [Ryan Kastner][1] at UC San Diego. 
 My research focuses on using hardware-software co-design to create efficient, fault-tolerant computer architectures for machine learning. 
 My work is supported by an NSF Graduate Research Fellowship. 
 
@@ -27,6 +27,7 @@ My interests include but are not limited to:
 * Film adaptations of books
 * Medium specificity
 * Novels
+* Piano
 * Classical music
 * Opera
 * Tennis
