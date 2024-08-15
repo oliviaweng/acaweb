@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## FKeras: A Sensitivity Analysis Tool for Edge Neural Networks
-[JATS (To appear)][9]
+[JATS][9]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -37,7 +37,7 @@ The data constituting an FPGA pentimento is imprinted on the device through bias
 Measuring this degradation using a time-to-digital converter allows an attacker to (1) extract proprietary details or keys from an encrypted FPGA design image available on the AWS marketplace and (2) recover information from a previous user of a cloud-FPGA.
 
 ## Maximizing Channel Capacity in Time-to-Digital Converters
-[FCCM'21][2], [FPGA'23][4], [TRETS (To appear)][0]
+[FCCM'21][2], [FPGA'23][4], [TRETS (To appear)][10]
 
 Side-channel leakage poses a major security threat in multi-tenant environments. 
 In FPGA systems, one tenant can instantiate a voltage fluctuation sensor that measures minute changes in the power distribution network and infer information about co-tenant computation and data. 
@@ -65,3 +65,4 @@ We show that integrating machine learning into the critical path of operating sy
 [7]: https://dl.acm.org/doi/pdf/10.1145/3624990
 [8]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 
 [9]: https://dl.acm.org/doi/pdf/10.1145/3665334 
+[10]: https://dl.acm.org/doi/pdf/10.1145/3666092
