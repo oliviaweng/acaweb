@@ -3,8 +3,14 @@ title: "Projects"
 draft: false
 ---
 
+## AmigoLUT: Scaling Up LUT-based Neural Networks with Ensemble Learning
+Applications including high-energy physics and cybersecurity require extremely high throughput and low latency neural network inference on FPGAs. 
+Lookup Table (LUT)-based NNs like [LogicNets](https://github.com/Xilinx/logicnets) address these constraints by mapping neural networks directly to LUTs, achieving inference latency on the order of nanoseconds.
+However, it is difficult to implement larger, more performant LUT-based NNs because LUT resource usage increases exponentially with respect to the number of LUT inputs.
+Our work *AmigoLUT* creates ensembles of smaller LUT-based NNs such that they scale up linearly with respect to the number of models to achieve higher accuracy within the resource constraints of an FPGA.
+
 ## FKeras: A Sensitivity Analysis Tool for Edge Neural Networks
-[JATS][9]
+[JATS'24][9]
 
 Many scientific applications require neural networks (NNs) to operate correctly in safety-critical or high radiation environments, including automated driving, space, and high energy physics. 
 For example, physicists at the Large Hadron Collider want to deploy an autoencoder to filter their experimental data at a high data rate (~40TB/s) in a high radiation environment. 
@@ -14,12 +20,6 @@ However, efficiency and robustness are often in conflict with each other.
 To address these opposing demands, we must understand the fault tolerance inherent in NNs.
 To identify where and why this inherent redundancy exists in a NN, we present [FKeras](https://github.com/KastnerRG/fkeras), a fault tolerance library for Keras, which is an open-source tool that measures the fault tolerance of NNs at the bit level, using various metrics such as the gradient and the Hessian. 
 Once we identify which parts of the NN are insensitive to radiation faults, we need not protect them, reducing the resources spent on robust hardware.
-
-## EnsembleLUT: Evaluating Ensembles of LogicNets
-Applications including high-energy physics and cybersecurity require extremely high throughput and low latency neural network inference on FPGAs. 
-[LogicNets](https://github.com/Xilinx/logicnets) addresses these constraints by mapping neurons directly to LUTs, achieving inference latency on the order of nanoseconds.
-However, it is difficult to implement larger, more performant neural networks as LogicNets because LUT usage increases exponentially with respect to neuron fan-in (i.e., synapse bitwidth X number of synapses).
-Our work *EnsembleLUT* creates ensembles of smaller LogicNets such that we scale up LogicNets linearly with respect to the number of models to achieve higher accuracy within the resource constraints of an FPGA.
 
 ## Tailor: Altering Skip Connections for Resource-Efficient Inference
 [SLOHA'21][3], [FPGA'23][5], [TRETS'24][7]
@@ -37,7 +37,7 @@ The data constituting an FPGA pentimento is imprinted on the device through bias
 Measuring this degradation using a time-to-digital converter allows an attacker to (1) extract proprietary details or keys from an encrypted FPGA design image available on the AWS marketplace and (2) recover information from a previous user of a cloud-FPGA.
 
 ## Maximizing Channel Capacity in Time-to-Digital Converters
-[FCCM'21][2], [FPGA'23][4], [TRETS (To appear)][10]
+[FCCM'21][2], [FPGA'23][4], [TRETS'24][10]
 
 Side-channel leakage poses a major security threat in multi-tenant environments. 
 In FPGA systems, one tenant can instantiate a voltage fluctuation sensor that measures minute changes in the power distribution network and infer information about co-tenant computation and data. 

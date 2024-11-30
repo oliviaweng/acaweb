@@ -6,7 +6,9 @@ draft: false
 
 ## Publications
 
-1. Colin Drewes, Tyler Sheaves, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters][13]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS)*. To appear.
+1. **Olivia Weng**, Marta Andronic, Danial Zuberi, Jiaqing Chen, Caleb Geniesse, George A. Constantinides, Nhan Tran, Nicholas Fraser, Javier Mauricio Duarte, Ryan Kastner. [Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT][0]. In submission.
+
+1. Colin Drewes, Tyler Sheaves, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters][13]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 3, Article 49*. September 2024.
 
 1. **Olivia Weng**, Andres Meza, Quinlan Bock, Benjamin Hawks, Javier Campos, Nhan Tran, Javier Duarte, Ryan Kastner. [FKeras: A Sensitivity Analysis Tool for Edge Neural Networks][11]. In *ACM Journal on Autonomous Transportation Systems 1, 3, Article 15*. September 2024. 
 
