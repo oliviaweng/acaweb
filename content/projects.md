@@ -3,7 +3,20 @@ title: "Projects"
 draft: false
 ---
 
+## PrioriFI: Efficient Fault Injection for Edge Neural Networks
+As neural networks (NNs) are increasingly used to provide edge intelligence, there is a growing need to make the edge devices that run them robust to faults. 
+Edge devices must mitigate the resulting hardware failures to function correctly.
+In addition, edge NNs have strict constraints on power, energy, latency, throughput, memory size, and computational resources.
+Edge NNs require fundamental changes in model architecture, e.g., quantization and fewer, smaller layers.
+PrioriFI is an efficient fault injection (FI) algorithm that evaluates edge NN robustness by ranking NN bits based on their fault sensitivity.
+PrioriFI uses the Hessian for the initial weight ranking (provided by our previous work [FKeras][9]).
+Then, during an FI campaign, PrioriFI uses the information gained from each FI to focus the campaign on the bits likely to be the next most sensitive.
+With PrioriFI, designers can quickly evaluate different NN architectures and co-design fault-tolerant edge NNs.
+
+
 ## AmigoLUT: Scaling Up LUT-based Neural Networks with Ensemble Learning
+[FPGA (To appear)][0]
+
 Applications including high-energy physics and cybersecurity require extremely high throughput and low latency neural network inference on FPGAs. 
 Lookup Table (LUT)-based NNs like [LogicNets](https://github.com/Xilinx/logicnets) address these constraints by mapping neural networks directly to LUTs, achieving inference latency on the order of nanoseconds.
 However, it is difficult to implement larger, more performant LUT-based NNs because LUT resource usage increases exponentially with respect to the number of LUT inputs.
