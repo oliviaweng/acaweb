@@ -15,7 +15,7 @@ With PrioriFI, designers can quickly evaluate different NN architectures and co-
 
 
 ## AmigoLUT: Scaling Up LUT-based Neural Networks with Ensemble Learning
-[FPGA (To appear)][0]
+[FPGA'25][11]
 
 Applications including high-energy physics and cybersecurity require extremely high throughput and low latency neural network inference on FPGAs. 
 Lookup Table (LUT)-based NNs like [LogicNets](https://github.com/Xilinx/logicnets) address these constraints by mapping neural networks directly to LUTs, achieving inference latency on the order of nanoseconds.
@@ -79,3 +79,4 @@ We show that integrating machine learning into the critical path of operating sy
 [8]: https://dl.acm.org/doi/pdf/10.1145/3620665.3640355 
 [9]: https://dl.acm.org/doi/pdf/10.1145/3665334 
 [10]: https://dl.acm.org/doi/pdf/10.1145/3666092
+[11]: https://dl.acm.org/doi/pdf/10.1145/3706628.3708874
