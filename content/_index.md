@@ -5,6 +5,8 @@ draft: false
 ---
 
 ## Publications
+1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][0]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. To appear.
+
 1. **Olivia Weng**, Marta Andronic, Danial Zuberi, Jiaqing Chen, Caleb Geniesse, George A. Constantinides, Nhan Tran, Nicholas J. Fraser, Javier Mauricio Duarte, Ryan Kastner. [Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT][14]. In *Proceedings of the 2025 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2025.
 
 2. Colin Drewes, Tyler Sheaves, **Olivia Weng**, Keegan Ryan, William Hunter, Christopher McCarty, Ryan Kastner, Dustin Richmond. [Turn on, Tune in, Listen up: Maximizing Side-Channel Recovery in Cross-Platform Time-to-Digital Converters][13]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 3, Article 49*. September 2024.
