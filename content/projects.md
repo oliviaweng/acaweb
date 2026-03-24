@@ -4,7 +4,7 @@ draft: false
 ---
 
 ## PrioriFI: Efficient Fault Injection for Edge Neural Networks
-[ASPLOS'26 (To appear)][0]
+[ASPLOS'26][12]
 
 As neural networks (NNs) are increasingly used to provide edge intelligence, there is a growing need to make the edge devices that run them robust to faults. 
 Edge devices must mitigate the resulting hardware failures to function correctly.
@@ -82,3 +82,4 @@ We show that integrating machine learning into the critical path of operating sy
 [9]: https://dl.acm.org/doi/pdf/10.1145/3665334 
 [10]: https://dl.acm.org/doi/pdf/10.1145/3666092
 [11]: https://dl.acm.org/doi/pdf/10.1145/3706628.3708874
+[12]: https://dl.acm.org/doi/pdf/10.1145/3779212.3790204

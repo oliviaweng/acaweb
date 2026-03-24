@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## Publications
-1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][0]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. To appear.
+1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][15]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. March 2026..
 
 1. **Olivia Weng**, Marta Andronic, Danial Zuberi, Jiaqing Chen, Caleb Geniesse, George A. Constantinides, Nhan Tran, Nicholas J. Fraser, Javier Mauricio Duarte, Ryan Kastner. [Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT][14]. In *Proceedings of the 2025 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2025.
 
@@ -51,3 +51,4 @@ draft: false
 [12]: https://ieeexplore.ieee.org/abstract/document/10538639
 [13]: https://dl.acm.org/doi/pdf/10.1145/3666092
 [14]: https://dl.acm.org/doi/pdf/10.1145/3706628.3708874
+[15]: https://dl.acm.org/doi/pdf/10.1145/3779212.3790204
