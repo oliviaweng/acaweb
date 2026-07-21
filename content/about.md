@@ -5,12 +5,13 @@ draft: false
 
 Hello! 
 I'm Olivia. 
-I'm a sixth-year PhD candidate in Computer Science working with Professor [Ryan Kastner][1] at UC San Diego. 
+I'm Assistant Professor of Computer Engineering at San José State University. 
 My research is at the intersection of artificial intelligence and embedded systems.
 My work uses hardware-software co-design to create efficient, fault-tolerant computer architectures for neural networks at the edge. 
-My PhD was supported by an NSF Graduate Research Fellowship. 
 
-Before coming to UCSD, I received my BS in Computer Science at the University of Chicago, where I worked with Professor [Yanjing Li][2] on mitigating cache side-channel attacks and Professor [Andrew A. Chien][3] on integrating SSD latency predictors into cloud systems via hardware accelerators. 
+Before coming to SJSU, I received my PhD and MS in Computer Science at UC San Diego, advised by [Ryan Kastner][1]. 
+My PhD thesis was *Efficient and Resilient Neural Networks for On-chip Inference*.
+I received my BS in Computer Science at the University of Chicago, where I worked with [Yanjing Li][2] and [Andrew A. Chien][3]. 
 
 {{< image src="/img/headshot_small.jpg" alt="profile" >}}
 

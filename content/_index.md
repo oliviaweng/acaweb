@@ -5,7 +5,9 @@ draft: false
 ---
 
 ## Publications
-1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][15]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. March 2026..
+1. Zhenghua Ma, G Abarajithan, Dimitrios Danopoulos, **Olivia Weng**, Francesco Restuccia, Ryan Kastner. [Design Rules for Extreme-Edge Scientific Computing on AI Engines][0]. In *36th International Conference on Field-Programmable Logic and Applications (FPL)*. To appear.
+
+1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][15]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. March 2026.
 
 1. **Olivia Weng**, Marta Andronic, Danial Zuberi, Jiaqing Chen, Caleb Geniesse, George A. Constantinides, Nhan Tran, Nicholas J. Fraser, Javier Mauricio Duarte, Ryan Kastner. [Greater than the Sum of its LUTs: Scaling Up LUT-based Neural Networks with AmigoLUT][14]. In *Proceedings of the 2025 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2025.
 
@@ -17,7 +19,7 @@ draft: false
 
 5. Tommaso Baldi, Javi Campos, Ben Hawks, Jennifer Ngadiuba, Nhan Tran, Daniel Diaz, Javier Duarte, Ryan Kastner, Andres Meza, Melissa Quinnan, **Olivia Weng**, Caleb Geniesse, Amir Gholami, Michael W. Mahoney, Vladimir Loncar, Philip Harris, Joshua Agar, Shuyu Qin. [Reliable edge machine learning hardware for scientific applications][12]. In *IEEE 42nd VLSI Test Symposium (VTS)*. Tempe, AZ. April 2024.
 
-6. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Abarajithan G, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
+6. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, G Abarajithan, Nojan Sheybani, Andres Meza, Farinaz Koushanfar, Kristof Denolf, Javier Mauricio Duarte, Ryan Kastner. [Tailor: Altering Skip Connections for Resource-Efficient Inference][7]. In *ACM Transactions on Reconfigurable Technology and Systems (TRETS) 17, 1, Article 11*. January 2024.
 
 7. **Olivia Weng**, Gabriel Marcano, Vladimir Loncar, Alireza Khodamoradi, Nojan Sheybani, Kristof Denolf, Farinaz Koushanfar, Javier Duarte, Ryan Kastner. 
 [Adapting Skip Connections for Resource-Efficient FPGA Inference][9]. In *Proceedings of the 2023 ACM/SIGDA International Symposium on Field Programmable Gate Arrays (FPGA)*. Monterey, CA. February 2023.
