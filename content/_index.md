@@ -5,7 +5,10 @@ draft: false
 ---
 
 ## Publications
+
 1. Zhenghua Ma, G Abarajithan, Dimitrios Danopoulos, **Olivia Weng**, Francesco Restuccia, Ryan Kastner. [Design Rules for Extreme-Edge Scientific Computing on AI Engines][0]. In *36th International Conference on Field-Programmable Logic and Applications (FPL)*. To appear.
+
+1. **Olivia Weng**. [Efficient and Resilient Neural Networks for On-chip Inference][16]. PhD dissertation. Department of Computer Science and Engineering, University of California San Diego. 2026.
 
 1. **Olivia Weng**, Andres Meza, Nhan Tran, Ryan Kastner. [PrioriFI: More Informed Fault Injection for Edge Neural Networks][15]. In *Proceedings of the 31st ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS)*. Pittsburgh, PA. March 2026.
 
@@ -54,3 +57,4 @@ draft: false
 [13]: https://dl.acm.org/doi/pdf/10.1145/3666092
 [14]: https://dl.acm.org/doi/pdf/10.1145/3706628.3708874
 [15]: https://dl.acm.org/doi/pdf/10.1145/3779212.3790204
+[16]: /weng_phd_thesis.pdf
