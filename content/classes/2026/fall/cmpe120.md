@@ -10,7 +10,7 @@ Welcome to CMPE 120!
 We’re so happy to have you in this course.
 Many of you have been writing programs for a couple of years now, and they have always run on computer hardware.
 The cool part was that you were able to learn how to program without needing to think much about how the hardware executed your code.
-But, at some point in your software engineering career, you will be confronted with the fact that some hardware is running your code—and something is going wrong with the way they are interacting.
+But, at some point in your software engineering career, you will be confronted with the fact that some hardware is running your code---and *something* is going wrong with the way they are interacting.
 Not only does it impact your program, but also that of your colleagues!
 Oh no!
 This course will help demystify why this is happening and how to fix it, turning you into an even stronger software engineer.
