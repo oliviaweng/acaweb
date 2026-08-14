@@ -5,7 +5,7 @@ draft: false
 
 ## @SJSU
 #### Computer Organization and Architecture (CMPE 120)
-[Fall 2026]
+[[Fall 2026](/classes/2026/fall/cmpe120/)]
 
 ## @UCSD
 #### Systems Programming and Software Tools (CSE 29)
