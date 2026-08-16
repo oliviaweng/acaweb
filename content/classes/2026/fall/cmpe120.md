@@ -25,7 +25,7 @@ Slides and assignments will be posted in the schedule below.
 For the suggested reading, we will be using these textbooks:
 
 - [Dive into Systems](https://diveintosystems.org/book/index.html) (DIS)
-- [Patterson & Hennesy's Computer Organization and Design RISC-V Edition : The Hardware Software Interface](https://ebookcentral.proquest.com/lib/sjsu/detail.action?docID=7262682&pq-origsite=primo) (P&H) (Note: requires being on SJSU wifi / VPN)
+- [Patterson & Hennesy's Computer Organization and Design RISC-V Edition : The Hardware Software Interface](https://ebookcentral.proquest.com/lib/sjsu/detail.action?docID=7262682&pq-origsite=primo) (P&H) (Note: requires SJSU login / network access)
 
 | Week | Date        | Lecture Topic                                      | Homework         | Suggested Reading                        |
 | ---- | ----------- | -------------------------------------------------- | ---------------- | ---------------------------------------- |
@@ -41,29 +41,29 @@ For the suggested reading, we will be using these textbooks:
 | 5    | Tue, Sep 22 | Conditional control & gdb                          |                  | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
 |      | Thu, Sep 24 | More gdb & procedures                              |                  | [P&H 2.8][12]                            |
 | 6    | Tue, Sep 29 | The performance equation and Amdahl's Law          |                  | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
-|      | Thu, Oct 1  | The single cycle processor                         | HW2 due; HW3 out |                                          |
-| 7    | Tue, Oct 6  | Pipelining & instruction level parallelism         |                  |                                          |
-|      | Thu, Oct 8  | Pipelining & instruction level parallelism         |                  |                                          |
+|      | Thu, Oct 1  | The single cycle processor                         | HW2 due; HW3 out | [P&H 4.1, 4.3 - 4.4][15]                 |
+| 7    | Tue, Oct 6  | Pipelining & instruction level parallelism         |                  | [P&H 4.5 - 4.6][16]                      |
+|      | Thu, Oct 8  | Pipelining & instruction level parallelism         |                  | [P&H 4.7][17]                            |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                   |                  |                                          |
-|      | Thu, Oct 15 | Speculation                                        | HW3 due; HW4 out |                                          |
-| 9    | Tue, Oct 20 | Speculation                                        |                  |                                          |
-|      | Thu, Oct 22 | Memory hierarchy & caches                          |                  |                                          |
-| 10   | Tue, Oct 27 | Caches locality and design                         |                  |                                          |
-|      | Thu, Oct 29 | Caches and your programs                           |                  |                                          |
-| 11   | Tue, Nov 3  | Virtual memory & paging                            |                  |                                          |
-|      | Thu, Nov 5  | Virtual memory & paging                            | HW4 due; HW5 out |                                          |
-| 12   | Tue, Nov 10 | Memory level parallelism (loop unrolling)          |                  |                                          |
-|      | Thu, Nov 12 | Memory level parallelism (data structure analysis) |                  |                                          |
-| 13   | Tue, Nov 17 | Multicore, SMT                                     |                  |                                          |
-|      | Thu, Nov 19 | Superscalar & VLIW architectures                   | HW5 due          |                                          |
-| 14   | Tue, Nov 24 | SIMD & GPU architectures                           |                  |                                          |
+|      | Thu, Oct 15 | Speculation                                        | HW3 due; HW4 out | [P&H 4.8][18]                            |
+| 9    | Tue, Oct 20 | Speculation                                        |                  | [P&H 4.10][22]                           |
+|      | Thu, Oct 22 | Memory hierarchy & caches                          |                  | [P&H 5.1 - 5.3][19]                      |
+| 10   | Tue, Oct 27 | Caches locality and design                         |                  | [P&H 5.4][20]                            |
+|      | Thu, Oct 29 | Caches and your programs                           |                  | [P&H 5.4][20]                            |
+| 11   | Tue, Nov 3  | Virtual memory & paging                            |                  | [P&H 5.7][21]                            |
+|      | Thu, Nov 5  | Virtual memory & paging                            | HW4 due; HW5 out | [P&H 5.7][21]                            |
+| 12   | Tue, Nov 10 | Memory level parallelism (loop unrolling)          |                  | None                                     |
+|      | Thu, Nov 12 | Memory level parallelism (data structure analysis) |                  | None                                     |
+| 13   | Tue, Nov 17 | Superscalar & VLIW architectures                   |                  | None                                     |
+|      | Thu, Nov 19 | Multicore, SMT                                     | HW5 due          | [P&H 6.2, 6.4][23]                       |
+| 14   | Tue, Nov 24 | SIMD & GPU architectures                           |                  | [P&H 6.3, 6.6][24]                       |
 |      | Thu, Nov 26 | NO CLASS - Happy Thanksgiving!                     |                  |                                          |
-| 15   | Tue, Dec 1  | Security (cache side-channel attacks)              |                  |                                          |
-|      | Thu, Dec 3  | Systolic arrays & hardware-software codesign       |                  |                                          |
+| 15   | Tue, Dec 1  | Security (cache side-channel attacks)              |                  | None                                     |
+|      | Thu, Dec 3  | Systolic arrays & hardware-software codesign       |                  | None                                     |
 | 16   | Thu, Dec 10 | **FINAL EXAM - SEC 01**                            |                  |                                          |
 | 17   | Tue, Dec 15 | **FINAL EXAM - SEC 02**                            |                  |                                          |
 
-Many parts of this syllabus are thanks to Leo Porter and Pat Pannuto.
+Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 
 [0]: https://diveintosystems.org/book/C1-C_intro/getting_started.html
 [1]: https://diveintosystems.org/book/C4-Binary/bases.html
@@ -80,3 +80,13 @@ Many parts of this syllabus are thanks to Leo Porter and Pat Pannuto.
 [12]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=129&c=RVBVQg
 [13]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=55&c=RVBVQg
 [14]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=73&c=RVBVQg
+[15]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=281&c=RVBVQg
+[16]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=301&c=RVBVQg
+[17]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=321&c=RVBVQg
+[18]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=329&c=RVBVQg
+[19]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=390&c=RVBVQg
+[20]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=410&c=RVBVQg
+[21]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=429&c=RVBVQg
+[22]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=340&c=RVBVQg
+[23]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=530&c=RVBVQg
+[24]: https://ebookcentral.proquest.com/lib/sjsu/reader.action?docID=7262682&ppg=534&c=RVBVQg
