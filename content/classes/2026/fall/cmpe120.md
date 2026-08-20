@@ -33,10 +33,10 @@ For the suggested reading, we will be using these textbooks:
 | 0    | Thu, Aug 20 | Introduction                                             | [HW0 out][25]    |                                          |
 | 1    | Tue, Aug 25 | Intro to C & binary representation                       |                  | [DIS 1.1 - 1.4][0]                       |
 |      | Thu, Aug 27 | More binary representation & overflow                    | HW0 due          | [DIS 4.1 - 4.5][1]                       |
-| 2    | Tue, Sep 1  | Binary wrap-up & strings                                 |                  | [DIS 1.5][2]                             |
-|      | Thu, Sep 3  | Unicode & bitwise operators                              | HW1 out          | [DIS 4.6][3]                             |
-| 3    | Tue, Sep 8  | Intro to memory and pointers _(async)_                   |                  | [DIS 2.1 - 2.3][4]                       |
-|      | Thu, Sep 10 | Pointers & arrays, dynamic memory allocation _(async)_   |                  | [DIS 2.4 - 2.5][5]                       |
+| 2    | Tue, Sep 1  | Binary wrap-up & strings _(async)_                       |                  | [DIS 1.5][2]                             |
+|      | Thu, Sep 3  | Unicode & bitwise operators _(async)_                    | HW1 out          | [DIS 4.6][3]                             |
+| 3    | Tue, Sep 8  | Intro to memory and pointers                             |                  | [DIS 2.1 - 2.3][4]                       |
+|      | Thu, Sep 10 | Pointers & arrays, dynamic memory allocation             |                  | [DIS 2.4 - 2.5][5]                       |
 | 4    | Tue, Sep 15 | Structs, dynamic data structures (linked lists)          |                  | [DIS 1.6][6], [DIS 2.7][7]               |
 |      | Thu, Sep 17 | Intro to ISA & assembly                                  | HW1 due; HW2 out | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
 | 5    | Tue, Sep 22 | Conditional control & gdb; **HW1 quiz**                  |                  | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
