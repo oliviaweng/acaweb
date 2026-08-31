@@ -33,8 +33,8 @@ For the suggested reading, we will be using these textbooks:
 | 0    | Thu, Aug 20 | Introduction [[blank slides][26]; [sec01 slides][27]; [sec02 slides][28]]                           | [HW0 out][25]    |                                          |
 | 1    | Tue, Aug 25 | Intro to C & binary [[blank slides][29]; [slides1][30]; [demo1][31]; [slides2][32]; [demo2][33]]    |                  | [DIS 1.1 - 1.4][0]                       |
 |      | Thu, Aug 27 | More binary & overflow [[blank slides][34]; [slides1][35]; [demo1][37]; [slides2][36]; [demo2][38]] | HW0 due          | [DIS 4.1 - 4.5][1]                       |
-| 2    | Tue, Sep 1  | Binary wrap-up & strings _(async)_                                                                  |                  | [DIS 1.5][2]                             |
-|      | Thu, Sep 3  | Unicode & bitwise operators _(async)_                                                               | HW1 out          | [DIS 4.6][3]                             |
+| 2    | Tue, Sep 1  | Binary wrap-up & strings _(async)_ [[blank slides][39]; [annotated slides][40]; [demo][41]]         |                  | [DIS 1.5][2]                             |
+|      | Thu, Sep 3  | Unicode & bitwise operators _(async)_ [[blank slides][42]; [annotated slides][43]; [demo][44]]      | HW1 out          | [DIS 4.6][3]                             |
 | 3    | Tue, Sep 8  | Intro to memory and pointers                                                                        |                  | [DIS 2.1 - 2.3][4]                       |
 |      | Thu, Sep 10 | Pointers & arrays, dynamic memory allocation                                                        |                  | [DIS 2.4 - 2.5][5]                       |
 | 4    | Tue, Sep 15 | Structs, dynamic data structures (linked lists)                                                     |                  | [DIS 1.6][6], [DIS 2.7][7]               |
@@ -105,3 +105,9 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [36]: /lectures/2026/fall/cmpe120/lecture3-0130-annot.pdf
 [37]: /lectures/2026/fall/cmpe120/demo2_s1.c
 [38]: /lectures/2026/fall/cmpe120/demo2_s2.c
+[39]: /lectures/2026/fall/cmpe120/lecture4.pdf
+[40]: /lectures/2026/fall/cmpe120/lecture4-annot.pdf
+[41]: /lectures/2026/fall/cmpe120/demo3.c
+[42]: /lectures/2026/fall/cmpe120/lecture5.pdf
+[43]: /lectures/2026/fall/cmpe120/lecture5-annot.pdf
+[44]: /lectures/2026/fall/cmpe120/demo4.c
