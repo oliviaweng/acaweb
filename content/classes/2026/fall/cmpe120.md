@@ -37,7 +37,7 @@ For the suggested reading, we will be using these textbooks:
 |      | Thu, Sep 3  | Unicode & bitwise operators _(async)_ [[blank slides][42]; [annotated slides][43]; [demo][44]]            | [HW1 out][45]    | [DIS 4.6][3]                             |
 | 3    | Tue, Sep 8  | Intro to memory and pointers [[blank slides][46]; [slides1][47]; [demo1][48]; [slides2][49]; [demo2][50]] |                  | [DIS 2.1 - 2.3][4]                       |
 |      | Thu, Sep 10 | Dynamic memory allocation [[blank slides][51]; [slides1][52]; [demo1][53]; [slides2][54]; [demo2][55]]    |                  | [DIS 2.4 - 2.5][5]                       |
-| 4    | Tue, Sep 15 | Structs, dynamic data structures (linked lists)                                                           |                  | [DIS 1.6][6], [DIS 2.7][7]               |
+| 4    | Tue, Sep 15 | Structs, linked lists [[blank slides][56]; [slides1][57]; [demo1][58]; [slides2][59]; [demo2][60]]        |                  | [DIS 1.6][6], [DIS 2.7][7]               |
 |      | Thu, Sep 17 | Intro to ISA & assembly                                                                                   | HW1 due; HW2 out | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
 | 5    | Tue, Sep 22 | Conditional control & gdb; **HW1 quiz**                                                                   |                  | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
 |      | Thu, Sep 24 | More gdb & procedures                                                                                     |                  | [P&H 2.8][12]                            |
@@ -122,3 +122,8 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [53]: /lectures/2026/fall/cmpe120/demo6_s1.c
 [54]: /lectures/2026/fall/cmpe120/lecture7-0130-annot.pdf
 [55]: /lectures/2026/fall/cmpe120/demo6_s2.c
+[56]: /lectures/2026/fall/cmpe120/lecture8-blank.pdf
+[57]: /lectures/2026/fall/cmpe120/lecture8-1030.pdf
+[58]: /lectures/2026/fall/cmpe120/demo7_s1.c
+[59]: /lectures/2026/fall/cmpe120/lecture8-0130.pdf
+[60]: /lectures/2026/fall/cmpe120/demo7_s2.c
