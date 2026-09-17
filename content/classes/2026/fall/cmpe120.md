@@ -38,7 +38,7 @@ For the suggested reading, we will be using these textbooks:
 | 3    | Tue, Sep 8  | Intro to memory and pointers [[blank slides][46]; [slides1][47]; [demo1][48]; [slides2][49]; [demo2][50]] |                  | [DIS 2.1 - 2.3][4]                       |
 |      | Thu, Sep 10 | Dynamic memory allocation [[blank slides][51]; [slides1][52]; [demo1][53]; [slides2][54]; [demo2][55]]    |                  | [DIS 2.4 - 2.5][5]                       |
 | 4    | Tue, Sep 15 | Structs, linked lists [[blank slides][56]; [slides1][57]; [demo1][58]; [slides2][59]; [demo2][60]]        |                  | [DIS 1.6][6], [DIS 2.7][7]               |
-|      | Thu, Sep 17 | Intro to ISA & assembly                                                                                   | HW1 due; HW2 out | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
+|      | Thu, Sep 17 | Intro to ISA & assembly [[blank slides][61]; [slides1][62]; [slides2][63]]                                | HW1 due; HW2 out | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
 | 5    | Tue, Sep 22 | Conditional control & gdb; **HW1 quiz**                                                                   |                  | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
 |      | Thu, Sep 24 | More gdb & procedures                                                                                     |                  | [P&H 2.8][12]                            |
 | 6    | Tue, Sep 29 | The performance equation and Amdahl's Law                                                                 |                  | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
@@ -127,3 +127,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [58]: /lectures/2026/fall/cmpe120/demo7_s1.c
 [59]: /lectures/2026/fall/cmpe120/lecture8-0130.pdf
 [60]: /lectures/2026/fall/cmpe120/demo7_s2.c
+[61]: /lectures/2026/fall/cmpe120/lecture9-blank.pdf
+[62]: /lectures/2026/fall/cmpe120/lecture9-1030.pdf
+[63]: /lectures/2026/fall/cmpe120/lecture9-0130.pdf
