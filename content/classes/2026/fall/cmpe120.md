@@ -38,9 +38,9 @@ For the suggested reading, we will be using these textbooks:
 | 3    | Tue, Sep 8  | Intro to memory and pointers [[blank slides][46]; [slides1][47]; [demo1][48]; [slides2][49]; [demo2][50]] |                        | [DIS 2.1 - 2.3][4]                       |
 |      | Thu, Sep 10 | Dynamic memory allocation [[blank slides][51]; [slides1][52]; [demo1][53]; [slides2][54]; [demo2][55]]    |                        | [DIS 2.4 - 2.5][5]                       |
 | 4    | Tue, Sep 15 | Structs, linked lists [[blank slides][56]; [slides1][57]; [demo1][58]; [slides2][59]; [demo2][60]]        |                        | [DIS 1.6][6], [DIS 2.7][7]               |
-|      | Thu, Sep 17 | Intro to ISA & assembly [[blank slides][61]; [slides1][62]; [slides2][63]]                                | HW1 due; [HW2 out][64] | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
-| 5    | Tue, Sep 22 | Conditional control & gdb; **HW1 quiz**                                                                   |                        | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
-|      | Thu, Sep 24 | More gdb & procedures                                                                                     |                        | [P&H 2.8][12]                            |
+|      | Thu, Sep 17 | Intro to ISA [[blank slides][61]; [slides1][62]; [slides2][63]]                                           | HW1 due; [HW2 out][64] | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
+| 5    | Tue, Sep 22 | ISA instructions; **HW1 quiz** [[blank slides][65]; [slides1][66]; [slides2][67]]                         |                        | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
+|      | Thu, Sep 24 | Control flow & gdb                                                                                        |                        | [P&H 2.8][12]                            |
 | 6    | Tue, Sep 29 | The performance equation and Amdahl's Law                                                                 |                        | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
 |      | Thu, Oct 1  | The single cycle processor                                                                                | HW2 due; HW3 out       | [P&H 4.1, 4.3 - 4.4][15]                 |
 | 7    | Tue, Oct 6  | Pipelining & instruction level parallelism; **HW2 quiz**                                                  |                        | [P&H 4.5 - 4.6][16]                      |
@@ -131,3 +131,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [62]: /lectures/2026/fall/cmpe120/lecture9-1030.pdf
 [63]: /lectures/2026/fall/cmpe120/lecture9-0130.pdf
 [64]: /assignments/2026/fall/cmpe120/hw2.pdf
+[65]: /lectures/2026/fall/cmpe120/lecture10-blank.pdf
+[66]: /lectures/2026/fall/cmpe120/lecture10-1030.pdf
+[67]: /lectures/2026/fall/cmpe120/lecture10-0130.pdf
