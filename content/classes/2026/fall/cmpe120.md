@@ -42,8 +42,8 @@ For the suggested reading, we will be using these textbooks:
 | 5    | Tue, Sep 22 | ISA instructions; **HW1 quiz** [[blank slides][65]; [slides1][66]; [slides2][67]]                         |                        | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
 |      | Thu, Sep 24 | Control flow & gdb [[blank slides][68]; [slides1][69]; [slides2][70]]                                     |                        | [P&H 2.8][12]                            |
 | 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                        | [P&H 2.8][12]                            |
-|      | Thu, Oct 1  | Amdahl's law & Performance equation [[blank slides][74]; [slides1][75]; [slides2][76]]                    | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
-| 7    | Tue, Oct 6  | Single cycle processor; **HW2 quiz**                                                                      |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
+|      | Thu, Oct 1  | Amdahl's law & measuring performance [[blank slides][74]; [slides1][75]; [slides2][76]]                   | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
+| 7    | Tue, Oct 6  | Performance equation & single cycle processor; **HW2 quiz**                                               |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
 |      | Thu, Oct 8  | Pipelining & instruction level parallelism                                                                |                        | [P&H 4.5 - 4.6][16]                      |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
 |      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.7][17]                            |
