@@ -44,12 +44,12 @@ For the suggested reading, we will be using these textbooks:
 | 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                        | [P&H 2.8][12]                            |
 |      | Thu, Oct 1  | Amdahl's law & measuring performance [[blank slides][74]; [slides1][75]; [slides2][76]]                   | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
 | 7    | Tue, Oct 6  | Performance equation & single cycle processor; **HW2 quiz**                                               |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
-|      | Thu, Oct 8  | Pipelining & instruction level parallelism                                                                |                        | [P&H 4.5 - 4.6][16]                      |
+|      | Thu, Oct 8  | Midterm review                                                                                            |                        |                                          |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
-|      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.7][17]                            |
-| 9    | Tue, Oct 20 | Speculation; **HW3 quiz**                                                                                 |                        | [P&H 4.8][18] [P&H 4.10][22]             |
-|      | Thu, Oct 22 | Memory hierarchy & caches                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
-| 10   | Tue, Oct 27 | Caches locality and design                                                                                |                        | [P&H 5.4][20]                            |
+|      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.5 - 4.6][16] [P&H 4.7][17]        |
+| 9    | Tue, Oct 20 | More pipelining; **HW3 quiz**                                                                             |                        |                                          |
+|      | Thu, Oct 22 | Speculation                                                                                               |                        | [P&H 4.8][18] [P&H 4.10][22]             |
+| 10   | Tue, Oct 27 | Caches locality and design                                                                                |                        | [P&H 5.1 - 5.3][19] [P&H 5.4][20]        |
 |      | Thu, Oct 29 | Caches and your programs                                                                                  |                        | [P&H 5.4][20]                            |
 | 11   | Tue, Nov 3  | Virtual memory & paging                                                                                   |                        | [P&H 5.7][21]                            |
 |      | Thu, Nov 5  | Virtual memory & paging                                                                                   | HW4 due; HW5 out       | [P&H 5.7][21]                            |
