@@ -42,19 +42,19 @@ For the suggested reading, we will be using these textbooks:
 | 5    | Tue, Sep 22 | ISA instructions; **HW1 quiz** [[blank slides][65]; [slides1][66]; [slides2][67]]                         |                        | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
 |      | Thu, Sep 24 | Control flow & gdb [[blank slides][68]; [slides1][69]; [slides2][70]]                                     |                        | [P&H 2.8][12]                            |
 | 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                        | [P&H 2.8][12]                            |
-|      | Thu, Oct 1  | Amdahl's law & measuring performance [[blank slides][74]; [slides1][75]; [slides2][76]]                   | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
-| 7    | Tue, Oct 6  | Performance equation & single cycle processor; **HW2 quiz**                                               |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
-|      | Thu, Oct 8  | Pipelining & instruction level parallelism                                                                |                        | [P&H 4.5 - 4.6][16]                      |
+|      | Thu, Oct 1  | Amdahl's law [[blank slides][74]; [slides1][75]; [slides2][76]]                                           | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
+| 7    | Tue, Oct 6  | Performance equation ; **HW2 quiz** [[blank slides][78]; [slides1][79]; [slides2][80]]                    |                        |                                          |
+|      | Thu, Oct 8  | Single cycle processor & midterm review                                                                   |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
-|      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.7][17]                            |
-| 9    | Tue, Oct 20 | Speculation; **HW3 quiz**                                                                                 |                        | [P&H 4.8][18] [P&H 4.10][22]             |
-|      | Thu, Oct 22 | Memory hierarchy & caches                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
-| 10   | Tue, Oct 27 | Caches locality and design                                                                                |                        | [P&H 5.4][20]                            |
-|      | Thu, Oct 29 | Caches and your programs                                                                                  |                        | [P&H 5.4][20]                            |
-| 11   | Tue, Nov 3  | Virtual memory & paging                                                                                   |                        | [P&H 5.7][21]                            |
+|      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.5 - 4.6][16]                      |
+| 9    | Tue, Oct 20 | Pipelining & instruction level parallelism; **HW3 quiz**                                                  |                        | [P&H 4.7][17]                            |
+|      | Thu, Oct 22 | Speculation                                                                                               |                        | [P&H 4.8][18]                            |
+| 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.10][22]                           |
+|      | Thu, Oct 29 | Cache locality and design                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
+| 11   | Tue, Nov 3  | Caches and your programs                                                                                  |                        | [P&H 5.4][20]                            |
 |      | Thu, Nov 5  | Virtual memory & paging                                                                                   | HW4 due; HW5 out       | [P&H 5.7][21]                            |
-| 12   | Tue, Nov 10 | Memory level parallelism (loop unrolling); **HW4 quiz**                                                   |                        | None                                     |
-|      | Thu, Nov 12 | Memory level parallelism (data structure analysis)                                                        |                        | None                                     |
+| 12   | Tue, Nov 10 | Virtual memory & paging; **HW4 quiz**                                                                     |                        | None                                     |
+|      | Thu, Nov 12 | Memory level parallelism                                                                                  |                        | None                                     |
 | 13   | Tue, Nov 17 | Superscalar & VLIW architectures                                                                          |                        | None                                     |
 |      | Thu, Nov 19 | Multicore, SMT                                                                                            | HW5 due                | [P&H 6.2, 6.4][23]                       |
 | 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                        | None                                     |
@@ -144,3 +144,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [75]: /lectures/2026/fall/cmpe120/lecture13-1030.pdf
 [76]: /lectures/2026/fall/cmpe120/lecture13-0130.pdf
 [77]: /assignments/2026/fall/cmpe120/hw3.pdf
+[78]: /lectures/2026/fall/cmpe120/lecture14-blank.pdf
+[79]: /lectures/2026/fall/cmpe120/lecture14-1030.pdf
+[80]: /lectures/2026/fall/cmpe120/lecture14-0130.pdf
