@@ -44,7 +44,7 @@ For the suggested reading, we will be using these textbooks:
 | 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                        | [P&H 2.8][12]                            |
 |      | Thu, Oct 1  | Amdahl's law [[blank slides][74]; [slides1][75]; [slides2][76]]                                           | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
 | 7    | Tue, Oct 6  | Performance equation ; **HW2 quiz** [[blank slides][78]; [slides1][79]; [slides2][80]]                    |                        |                                          |
-|      | Thu, Oct 8  | Single cycle processor & midterm review                                                                   |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
+|      | Thu, Oct 8  | Single cycle processor & midterm review [[blank slides][81]; [slides1][82]; [slides2][83]]                |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
 |      | Thu, Oct 15 | Pipelining & instruction level parallelism                                                                | HW3 due; HW4 out       | [P&H 4.5 - 4.6][16]                      |
 | 9    | Tue, Oct 20 | Pipelining & instruction level parallelism; **HW3 quiz**                                                  |                        | [P&H 4.7][17]                            |
@@ -147,3 +147,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [78]: /lectures/2026/fall/cmpe120/lecture14-blank.pdf
 [79]: /lectures/2026/fall/cmpe120/lecture14-1030.pdf
 [80]: /lectures/2026/fall/cmpe120/lecture14-0130.pdf
+[81]: /lectures/2026/fall/cmpe120/lecture15-blank.pdf
+[82]: /lectures/2026/fall/cmpe120/lecture15-1030.pdf
+[83]: /lectures/2026/fall/cmpe120/lecture15-0130.pdf
