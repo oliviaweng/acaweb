@@ -47,7 +47,7 @@ For the suggested reading, we will be using these textbooks:
 |      | Thu, Oct 8  | Single cycle processor & midterm review [[blank slides][81]; [slides1][82]; [slides2][83]]                |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
 |      | Thu, Oct 15 | Pipelining [[slides][84]]                                                                                 | HW3 due; [HW4 out][85] | [P&H 4.5 - 4.6][16]                      |
-| 9    | Tue, Oct 20 | Pipelining; **HW3 quiz**                                                                                  |                        | [P&H 4.7][17]                            |
+| 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                        | [P&H 4.7][17]                            |
 |      | Thu, Oct 22 | Speculation                                                                                               |                        | [P&H 4.8][18]                            |
 | 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.10][22]                           |
 |      | Thu, Oct 29 | Cache locality and design                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
@@ -152,3 +152,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [83]: /lectures/2026/fall/cmpe120/lecture15-0130.pdf
 [84]: /lectures/2026/fall/cmpe120/lecture16.pdf
 [85]: /assignments/2026/fall/cmpe120/hw4.pdf
+[86]: /lectures/2026/fall/cmpe120/lecture17-blank.pdf
+[87]: /lectures/2026/fall/cmpe120/lecture17-1030.pdf
+[88]: /lectures/2026/fall/cmpe120/lecture17-0130.pdf
