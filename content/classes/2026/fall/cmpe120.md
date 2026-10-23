@@ -48,8 +48,8 @@ For the suggested reading, we will be using these textbooks:
 | 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
 |      | Thu, Oct 15 | Pipelining [[slides][84]]                                                                                 | HW3 due; [HW4 out][85] | [P&H 4.5 - 4.6][16]                      |
 | 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                        | [P&H 4.7][17]                            |
-|      | Thu, Oct 22 | Speculation                                                                                               |                        | [P&H 4.8][18]                            |
-| 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.10][22]                           |
+|      | Thu, Oct 22 | Pipelining [[blank slides][89]; [slides1][90]; [slides2][91]]                                             |                        |                                          |
+| 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.8][18] [P&H 4.10][22]             |
 |      | Thu, Oct 29 | Cache locality and design                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
 | 11   | Tue, Nov 3  | Caches and your programs                                                                                  |                        | [P&H 5.4][20]                            |
 |      | Thu, Nov 5  | Virtual memory & paging                                                                                   | HW4 due; HW5 out       | [P&H 5.7][21]                            |
@@ -155,3 +155,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [86]: /lectures/2026/fall/cmpe120/lecture17-blank.pdf
 [87]: /lectures/2026/fall/cmpe120/lecture17-1030.pdf
 [88]: /lectures/2026/fall/cmpe120/lecture17-0130.pdf
+[89]: /lectures/2026/fall/cmpe120/lecture18-blank.pdf
+[90]: /lectures/2026/fall/cmpe120/lecture18-1030.pdf
+[91]: /lectures/2026/fall/cmpe120/lecture18-0130.pdf
