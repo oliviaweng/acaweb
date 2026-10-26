@@ -49,18 +49,18 @@ For the suggested reading, we will be using these textbooks:
 |      | Thu, Oct 15 | Pipelining [[slides][84]]                                                                                 | HW3 due; [HW4 out][85] | [P&H 4.5 - 4.6][16]                      |
 | 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                        | [P&H 4.7][17]                            |
 |      | Thu, Oct 22 | Pipelining [[blank slides][89]; [slides1][90]; [slides2][91]]                                             |                        |                                          |
-| 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.8][18] [P&H 4.10][22]             |
-|      | Thu, Oct 29 | Cache locality and design                                                                                 |                        | [P&H 5.1 - 5.3][19]                      |
-| 11   | Tue, Nov 3  | Caches and your programs                                                                                  |                        | [P&H 5.4][20]                            |
-|      | Thu, Nov 5  | Virtual memory & paging                                                                                   | HW4 due; HW5 out       | [P&H 5.7][21]                            |
-| 12   | Tue, Nov 10 | Virtual memory & paging; **HW4 quiz**                                                                     |                        | None                                     |
-|      | Thu, Nov 12 | Memory level parallelism                                                                                  |                        | None                                     |
-| 13   | Tue, Nov 17 | Superscalar & VLIW architectures                                                                          |                        | None                                     |
-|      | Thu, Nov 19 | Multicore, SMT                                                                                            | HW5 due                | [P&H 6.2, 6.4][23]                       |
-| 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                        | None                                     |
+| 10   | Tue, Oct 27 | Speculation                                                                                               |                        | [P&H 4.8][18]                            |
+|      | Thu, Oct 29 | Speculation                                                                                               |                        |                                          |
+| 11   | Tue, Nov 3  | Cache design                                                                                              |                        | [P&H 5.1 - 5.3][19]                      |
+|      | Thu, Nov 5  | Cache design                                                                                              | HW4 due; HW5 out       |                                          |
+| 12   | Tue, Nov 10 | Caches and your programs; **HW4 quiz**                                                                    |                        | [P&H 5.4][20]                            |
+|      | Thu, Nov 12 | Virtual memory & paging                                                                                   |                        | [P&H 5.7][21]                            |
+| 13   | Tue, Nov 17 | Virtual memory & paging                                                                                   |                        |                                          |
+|      | Thu, Nov 19 | Superscalar & VLIW architectures                                                                          | HW5 due                | [P&H 4.10][22]                           |
+| 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                        |                                          |
 |      | Thu, Nov 26 | NO CLASS - Happy Thanksgiving!                                                                            |                        |                                          |
-| 15   | Tue, Dec 1  | SIMD & GPU architectures; **HW5 quiz**                                                                    |                        | [P&H 6.3, 6.6][24]                       |
-|      | Thu, Dec 3  | Systolic arrays & hardware-software codesign                                                              |                        | None                                     |
+| 15   | Tue, Dec 1  | Multicore, SMT; **HW5 quiz**                                                                              |                        | [P&H 6.2, 6.4][23]                       |
+|      | Thu, Dec 3  | SIMD & GPU architectures & hardware-software codesign                                                     |                        | [P&H 6.3, 6.6][24]                       |
 | 16   | Thu, Dec 10 | **FINAL EXAM - SEC 01**                                                                                   |                        |                                          |
 | 17   | Tue, Dec 15 | **FINAL EXAM - SEC 02**                                                                                   |                        |                                          |
 
