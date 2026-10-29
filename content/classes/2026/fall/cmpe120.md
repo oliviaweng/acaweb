@@ -50,7 +50,7 @@ For the suggested reading, we will be using these textbooks:
 | 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                        | [P&H 4.7][17]                            |
 |      | Thu, Oct 22 | Pipelining [[blank slides][89]; [slides1][90]; [slides2][91]]                                             |                        |                                          |
 | 10   | Tue, Oct 27 | Speculation [[blank slides][92]; [slides1][93]; [slides2][94]]                                            |                        | [P&H 4.8][18]                            |
-|      | Thu, Oct 29 | Speculation                                                                                               |                        |                                          |
+|      | Thu, Oct 29 | Speculation [[blank slides][95]; [slides1][96]; [slides2][97]]                                            |                        |                                          |
 | 11   | Tue, Nov 3  | Cache design                                                                                              |                        | [P&H 5.1 - 5.3][19]                      |
 |      | Thu, Nov 5  | Cache design                                                                                              | HW4 due; HW5 out       |                                          |
 | 12   | Tue, Nov 10 | Caches and your programs; **HW4 quiz**                                                                    |                        | [P&H 5.4][20]                            |
@@ -161,3 +161,6 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [92]: /lectures/2026/fall/cmpe120/lecture19-blank.pdf
 [93]: /lectures/2026/fall/cmpe120/lecture19-1030.pdf
 [94]: /lectures/2026/fall/cmpe120/lecture19-0130.pdf
+[95]: /lectures/2026/fall/cmpe120/lecture20-blank.pdf
+[96]: /lectures/2026/fall/cmpe120/lecture20-1030.pdf
+[97]: /lectures/2026/fall/cmpe120/lecture20-0130.pdf
