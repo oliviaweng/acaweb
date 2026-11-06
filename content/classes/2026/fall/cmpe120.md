@@ -28,41 +28,41 @@ For the suggested reading, we will be using these textbooks:
 - [Dive into Systems](https://diveintosystems.org/book/index.html) (DIS)
 - [Patterson & Hennesy's Computer Organization and Design RISC-V Edition : The Hardware Software Interface](https://ebookcentral.proquest.com/lib/sjsu/detail.action?docID=7262682&pq-origsite=primo) (P&H) (Note: requires SJSU login / network access)
 
-| Week | Date        | Lecture Topic                                                                                             | Homework               | Suggested Reading                        |
-| ---- | ----------- | --------------------------------------------------------------------------------------------------------- | ---------------------- | ---------------------------------------- |
-| 0    | Thu, Aug 20 | Introduction [[blank slides][26]; [sec01 slides][27]; [sec02 slides][28]]                                 | [HW0 out][25]          |                                          |
-| 1    | Tue, Aug 25 | Intro to C & binary [[blank slides][29]; [slides1][30]; [demo1][31]; [slides2][32]; [demo2][33]]          |                        | [DIS 1.1 - 1.4][0]                       |
-|      | Thu, Aug 27 | More binary & overflow [[blank slides][34]; [slides1][35]; [demo1][37]; [slides2][36]; [demo2][38]]       | HW0 due                | [DIS 4.1 - 4.5][1]                       |
-| 2    | Tue, Sep 1  | Binary wrap-up & strings _(async)_ [[blank slides][39]; [annotated slides][40]; [demo][41]]               |                        | [DIS 1.5][2]                             |
-|      | Thu, Sep 3  | Unicode & bitwise operators _(async)_ [[blank slides][42]; [annotated slides][43]; [demo][44]]            | [HW1 out][45]          | [DIS 4.6][3]                             |
-| 3    | Tue, Sep 8  | Intro to memory and pointers [[blank slides][46]; [slides1][47]; [demo1][48]; [slides2][49]; [demo2][50]] |                        | [DIS 2.1 - 2.3][4]                       |
-|      | Thu, Sep 10 | Dynamic memory allocation [[blank slides][51]; [slides1][52]; [demo1][53]; [slides2][54]; [demo2][55]]    |                        | [DIS 2.4 - 2.5][5]                       |
-| 4    | Tue, Sep 15 | Structs, linked lists [[blank slides][56]; [slides1][57]; [demo1][58]; [slides2][59]; [demo2][60]]        |                        | [DIS 1.6][6], [DIS 2.7][7]               |
-|      | Thu, Sep 17 | Intro to ISA [[blank slides][61]; [slides1][62]; [slides2][63]]                                           | HW1 due; [HW2 out][64] | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
-| 5    | Tue, Sep 22 | ISA instructions; **HW1 quiz** [[blank slides][65]; [slides1][66]; [slides2][67]]                         |                        | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
-|      | Thu, Sep 24 | Control flow & gdb [[blank slides][68]; [slides1][69]; [slides2][70]]                                     |                        | [P&H 2.8][12]                            |
-| 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                        | [P&H 2.8][12]                            |
-|      | Thu, Oct 1  | Amdahl's law [[blank slides][74]; [slides1][75]; [slides2][76]]                                           | HW2 due; [HW3 out][77] | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
-| 7    | Tue, Oct 6  | Performance equation ; **HW2 quiz** [[blank slides][78]; [slides1][79]; [slides2][80]]                    |                        |                                          |
-|      | Thu, Oct 8  | Single cycle processor & midterm review [[blank slides][81]; [slides1][82]; [slides2][83]]                |                        | [P&H 4.1, 4.3 - 4.4][15]                 |
-| 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                        |                                          |
-|      | Thu, Oct 15 | Pipelining [[slides][84]]                                                                                 | HW3 due; [HW4 out][85] | [P&H 4.5 - 4.6][16]                      |
-| 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                        | [P&H 4.7][17]                            |
-|      | Thu, Oct 22 | Pipelining [[blank slides][89]; [slides1][90]; [slides2][91]]                                             |                        |                                          |
-| 10   | Tue, Oct 27 | Speculation [[blank slides][92]; [slides1][93]; [slides2][94]]                                            |                        | [P&H 4.8][18]                            |
-|      | Thu, Oct 29 | Speculation [[blank slides][95]; [slides1][96]; [slides2][97]]                                            |                        |                                          |
-| 11   | Tue, Nov 3  | Cache design [[blank slides][98]; [slides1][99]; [slides2][100]]                                          |                        | [P&H 5.1 - 5.3][19]                      |
-|      | Thu, Nov 5  | Cache design [[blank slides][101]; [slides1][102]; [slides2][103]]                                        | HW4 due; HW5 out       |                                          |
-| 12   | Tue, Nov 10 | Caches and your programs; **HW4 quiz**                                                                    |                        | [P&H 5.4][20]                            |
-|      | Thu, Nov 12 | Virtual memory & paging                                                                                   |                        | [P&H 5.7][21]                            |
-| 13   | Tue, Nov 17 | Virtual memory & paging                                                                                   |                        |                                          |
-|      | Thu, Nov 19 | Superscalar & VLIW architectures                                                                          | HW5 due                | [P&H 4.10][22]                           |
-| 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                        |                                          |
-|      | Thu, Nov 26 | NO CLASS - Happy Thanksgiving!                                                                            |                        |                                          |
-| 15   | Tue, Dec 1  | Multicore, SMT; **HW5 quiz**                                                                              |                        | [P&H 6.2, 6.4][23]                       |
-|      | Thu, Dec 3  | SIMD & GPU architectures & hardware-software codesign                                                     |                        | [P&H 6.3, 6.6][24]                       |
-| 16   | Thu, Dec 10 | **FINAL EXAM - SEC 01**                                                                                   |                        |                                          |
-| 17   | Tue, Dec 15 | **FINAL EXAM - SEC 02**                                                                                   |                        |                                          |
+| Week | Date        | Lecture Topic                                                                                             | Homework                | Suggested Reading                        |
+| ---- | ----------- | --------------------------------------------------------------------------------------------------------- | ----------------------- | ---------------------------------------- |
+| 0    | Thu, Aug 20 | Introduction [[blank slides][26]; [sec01 slides][27]; [sec02 slides][28]]                                 | [HW0 out][25]           |                                          |
+| 1    | Tue, Aug 25 | Intro to C & binary [[blank slides][29]; [slides1][30]; [demo1][31]; [slides2][32]; [demo2][33]]          |                         | [DIS 1.1 - 1.4][0]                       |
+|      | Thu, Aug 27 | More binary & overflow [[blank slides][34]; [slides1][35]; [demo1][37]; [slides2][36]; [demo2][38]]       | HW0 due                 | [DIS 4.1 - 4.5][1]                       |
+| 2    | Tue, Sep 1  | Binary wrap-up & strings _(async)_ [[blank slides][39]; [annotated slides][40]; [demo][41]]               |                         | [DIS 1.5][2]                             |
+|      | Thu, Sep 3  | Unicode & bitwise operators _(async)_ [[blank slides][42]; [annotated slides][43]; [demo][44]]            | [HW1 out][45]           | [DIS 4.6][3]                             |
+| 3    | Tue, Sep 8  | Intro to memory and pointers [[blank slides][46]; [slides1][47]; [demo1][48]; [slides2][49]; [demo2][50]] |                         | [DIS 2.1 - 2.3][4]                       |
+|      | Thu, Sep 10 | Dynamic memory allocation [[blank slides][51]; [slides1][52]; [demo1][53]; [slides2][54]; [demo2][55]]    |                         | [DIS 2.4 - 2.5][5]                       |
+| 4    | Tue, Sep 15 | Structs, linked lists [[blank slides][56]; [slides1][57]; [demo1][58]; [slides2][59]; [demo2][60]]        |                         | [DIS 1.6][6], [DIS 2.7][7]               |
+|      | Thu, Sep 17 | Intro to ISA [[blank slides][61]; [slides1][62]; [slides2][63]]                                           | HW1 due; [HW2 out][64]  | [P&H 1.1 - 1.3][8], [P & H 2.1 - 2.3][9] |
+| 5    | Tue, Sep 22 | ISA instructions; **HW1 quiz** [[blank slides][65]; [slides1][66]; [slides2][67]]                         |                         | [P&H 2.7][10], [DIS 3.1 - 3.2][11]       |
+|      | Thu, Sep 24 | Control flow & gdb [[blank slides][68]; [slides1][69]; [slides2][70]]                                     |                         | [P&H 2.8][12]                            |
+| 6    | Tue, Sep 29 | More control flow [[blank slides][71]; [slides1][72]; [slides2][73]]                                      |                         | [P&H 2.8][12]                            |
+|      | Thu, Oct 1  | Amdahl's law [[blank slides][74]; [slides1][75]; [slides2][76]]                                           | HW2 due; [HW3 out][77]  | [P&H 1.6 - 1.7][13] [P&H 1.10][14]       |
+| 7    | Tue, Oct 6  | Performance equation ; **HW2 quiz** [[blank slides][78]; [slides1][79]; [slides2][80]]                    |                         |                                          |
+|      | Thu, Oct 8  | Single cycle processor & midterm review [[blank slides][81]; [slides1][82]; [slides2][83]]                |                         | [P&H 4.1, 4.3 - 4.4][15]                 |
+| 8    | Tue, Oct 13 | **MIDTERM EXAM**                                                                                          |                         |                                          |
+|      | Thu, Oct 15 | Pipelining [[slides][84]]                                                                                 | HW3 due; [HW4 out][85]  | [P&H 4.5 - 4.6][16]                      |
+| 9    | Tue, Oct 20 | Pipelining; **HW3 quiz** [[blank slides][86]; [slides1][87]; [slides2][88]]                               |                         | [P&H 4.7][17]                            |
+|      | Thu, Oct 22 | Pipelining [[blank slides][89]; [slides1][90]; [slides2][91]]                                             |                         |                                          |
+| 10   | Tue, Oct 27 | Speculation [[blank slides][92]; [slides1][93]; [slides2][94]]                                            |                         | [P&H 4.8][18]                            |
+|      | Thu, Oct 29 | Speculation [[blank slides][95]; [slides1][96]; [slides2][97]]                                            |                         |                                          |
+| 11   | Tue, Nov 3  | Cache design [[blank slides][98]; [slides1][99]; [slides2][100]]                                          |                         | [P&H 5.1 - 5.3][19]                      |
+|      | Thu, Nov 5  | Cache design [[blank slides][101]; [slides1][102]; [slides2][103]]                                        | HW4 due; [HW5 out][104] |                                          |
+| 12   | Tue, Nov 10 | Caches and your programs; **HW4 quiz**                                                                    |                         | [P&H 5.4][20]                            |
+|      | Thu, Nov 12 | Virtual memory & paging                                                                                   |                         | [P&H 5.7][21]                            |
+| 13   | Tue, Nov 17 | Virtual memory & paging                                                                                   |                         |                                          |
+|      | Thu, Nov 19 | Superscalar & VLIW architectures                                                                          | HW5 due                 | [P&H 4.10][22]                           |
+| 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                         |                                          |
+|      | Thu, Nov 26 | NO CLASS - Happy Thanksgiving!                                                                            |                         |                                          |
+| 15   | Tue, Dec 1  | Multicore, SMT; **HW5 quiz**                                                                              |                         | [P&H 6.2, 6.4][23]                       |
+|      | Thu, Dec 3  | SIMD & GPU architectures & hardware-software codesign                                                     |                         | [P&H 6.3, 6.6][24]                       |
+| 16   | Thu, Dec 10 | **FINAL EXAM - SEC 01**                                                                                   |                         |                                          |
+| 17   | Tue, Dec 15 | **FINAL EXAM - SEC 02**                                                                                   |                         |                                          |
 
 Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 
@@ -170,3 +170,4 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [101]: /lectures/2026/fall/cmpe120/lecture22-blank.pdf
 [102]: /lectures/2026/fall/cmpe120/lecture22-1030.pdf
 [103]: /lectures/2026/fall/cmpe120/lecture22-0130.pdf
+[104]: /assignments/2026/fall/cmpe120/hw5.pdf
