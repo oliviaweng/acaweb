@@ -55,7 +55,7 @@ For the suggested reading, we will be using these textbooks:
 |      | Thu, Nov 5  | Cache design [[blank slides][101]; [slides1][102]; [slides2][103]]                                        | HW4 due; [HW5 out][104] |                                          |
 | 12   | Tue, Nov 10 | Caches and your programs; **HW4 quiz** [[blank slides][105]; [slides1][106]; [slides2][107]]              |                         | [P&H 5.4][20]                            |
 |      | Thu, Nov 12 | Virtual memory & paging [[blank slides][108]; [slides1][109]; [slides2][110]]                             |                         | [P&H 5.7][21]                            |
-| 13   | Tue, Nov 17 | Virtual memory & paging                                                                                   |                         |                                          |
+| 13   | Tue, Nov 17 | Virtual memory & paging [[blank slides][111]; [annotated][112]]                                           |                         |                                          |
 |      | Thu, Nov 19 | Superscalar & VLIW architectures                                                                          | HW5 due                 | [P&H 4.10][22]                           |
 | 14   | Tue, Nov 24 | Security (cache side-channel attacks)                                                                     |                         |                                          |
 |      | Thu, Nov 26 | NO CLASS - Happy Thanksgiving!                                                                            |                         |                                          |
@@ -177,3 +177,5 @@ Many parts of this course are thanks to Leo Porter and Pat Pannuto.
 [108]: /lectures/2026/fall/cmpe120/lecture24-blank.pdf
 [109]: /lectures/2026/fall/cmpe120/lecture24-1030.pdf
 [110]: /lectures/2026/fall/cmpe120/lecture24-0130.pdf
+[111]: /lectures/2026/fall/cmpe120/lecture25-blank.pdf
+[112]: /lectures/2026/fall/cmpe120/lecture25-annot.pdf
